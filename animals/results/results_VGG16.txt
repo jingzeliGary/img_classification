@@ -1,0 +1,140 @@
+[epoch: 0]
+train_loss: 1.2964
+lr: 0.001000
+test_loss: 2.2091261875338675
+acc: 0.1856
+
+
+[epoch: 1]
+train_loss: 1.9629
+lr: 0.000953
+test_loss: 1.4534625144508797
+acc: 0.5263
+
+
+[epoch: 2]
+train_loss: 1.2891
+lr: 0.000905
+test_loss: 1.0712826804416944
+acc: 0.6457
+
+
+[epoch: 3]
+train_loss: 0.9096
+lr: 0.000857
+test_loss: 1.0690556023179025
+acc: 0.6838
+
+
+[epoch: 4]
+train_loss: 0.7691
+lr: 0.000808
+test_loss: 0.817245193613254
+acc: 0.7654
+
+
+[epoch: 5]
+train_loss: 0.6301
+lr: 0.000760
+test_loss: 0.5712148730105502
+acc: 0.8212
+
+
+[epoch: 6]
+train_loss: 0.5684
+lr: 0.000711
+test_loss: 0.7113648849289591
+acc: 0.7789
+
+
+[epoch: 7]
+train_loss: 0.4908
+lr: 0.000661
+test_loss: 0.5976965577621768
+acc: 0.8064
+
+
+[epoch: 8]
+train_loss: 0.4407
+lr: 0.000611
+test_loss: 0.47362572875449327
+acc: 0.8582
+
+
+[epoch: 9]
+train_loss: 0.3776
+lr: 0.000561
+test_loss: 0.43744206489101656
+acc: 0.8672
+
+
+[epoch: 10]
+train_loss: 0.3342
+lr: 0.000510
+test_loss: 0.4671971216434386
+acc: 0.8619
+
+
+[epoch: 11]
+train_loss: 0.2962
+lr: 0.000459
+test_loss: 0.37268633607441815
+acc: 0.8910
+
+
+[epoch: 12]
+train_loss: 0.2585
+lr: 0.000407
+test_loss: 0.35406038037887433
+acc: 0.8975
+
+
+[epoch: 13]
+train_loss: 0.2050
+lr: 0.000354
+test_loss: 0.3887528468195985
+acc: 0.8862
+
+
+[epoch: 14]
+train_loss: 0.1720
+lr: 0.000301
+test_loss: 0.3329788414625133
+acc: 0.9035
+
+
+[epoch: 15]
+train_loss: 0.1345
+lr: 0.000246
+test_loss: 0.3398444164635205
+acc: 0.9041
+
+
+[epoch: 16]
+train_loss: 0.1081
+lr: 0.000190
+test_loss: 0.3336369000617566
+acc: 0.9124
+
+
+[epoch: 17]
+train_loss: 0.0781
+lr: 0.000132
+test_loss: 0.34102821380384557
+acc: 0.9113
+
+
+[epoch: 18]
+train_loss: 0.0566
+lr: 0.000071
+test_loss: 0.3257295848816877
+acc: 0.9200
+
+
+[epoch: 19]
+train_loss: 0.0373
+lr: 0.000000
+test_loss: 0.3148853695701536
+acc: 0.9236
+
+
